@@ -1,0 +1,12 @@
+.contact {
+  flex-direction: column;
+}
+.icon{
+  display: flex;
+  margin-top: 1em;
+}
+
+.icon a{
+  margin-right: .5em;
+  margin-left: .5em;
+}
