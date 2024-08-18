@@ -13,7 +13,7 @@ const about = {
   role: 'Full stack developer',
   description:
     "Skilled in MERN Stack, Reactjs, Django, HTML, CSS, JavaScript, Python, DSA and C. Pursuing B.Tech in Computer Science and Engineering. Dedicated to delivering seamless user experiences and innovative web solutions. Let's connect and build something great together!",
-  resume: 'https://drive.google.com/file/d/1SUb94adVF1jzkZt89_wNyDAWhFo0nMe0/view?usp=sharing',
+  resume: 'https://drive.google.com/drive/folders/181wVrm4ycxjrJlOFvVcepGwNZBPRNUQ3?usp=drive_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/ambuj-srivastava-6ab000259',
     github: 'https://github.com/Ambuj2311',
@@ -93,7 +93,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'https://www.asrimbuj@gmail.com',
+  email: 'asrimbuj@gmail.com',
 }
 
 export { header, about, projects, skills, contact, }
