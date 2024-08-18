@@ -161,5 +161,6 @@ transition: all ease 1s;
 @media (max-width: 600px) {
   .section {
     margin-top: 4em;
+    align-items: center;
   }
 }

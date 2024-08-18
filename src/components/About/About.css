@@ -1,4 +1,4 @@
-.about {
+/* .about {
   flex-direction: column;
   margin-top: 3em;
 }
@@ -33,5 +33,53 @@
   .app .about {
     align-items: flex-start;
     margin-top: 2em;
+  }
+} */
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center content including the profile photo */
+  margin-top: 3em;
+  text-align: center; /* Center text */
+}
+
+.about__name {
+  color: var(--clr-primary);
+}
+
+.about__role {
+  margin-top: 1.2em;
+}
+
+.about__desc {
+  font-size: 1rem;
+  max-width: 800px;
+  margin: 0 auto; /* Center the description */
+}
+
+.about__desc,
+.about__contact {
+  margin-top: 2.4em;
+}
+
+.about .link--icon {
+  margin-right: 0.8em;
+}
+
+.about .btn--outline {
+  margin-right: 1em;
+}
+
+/* Responsive Design for smaller screens */
+@media (max-width: 600px) {
+  .about {
+    align-items: center; /* Center all items for smaller screens */
+    margin-top: 2em;
+  }
+
+  .about__desc {
+    font-size: 0.9rem;
+    padding: 0 1em; /* Add padding for better readability */
   }
 }

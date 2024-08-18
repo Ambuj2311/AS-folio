@@ -29,39 +29,46 @@ const projects = [
       'A dynamic web application built with HTML, CSS, Bootstrap, and Django. It features an interactive layout for browsing and reading the latest news articles, offering users a seamless news experience.',
     stack: ['Django','HTML','CSS','Bootstrap', 'Google Map API'],
     sourceCode: 'https://github.com/Ambuj2311/The_Daily_Newspaper',
-    livePreview: '#',
+    livePreview: 'https://ambuj2311.pythonanywhere.com/thedailynewspaper/',
   },
   {
     name: 'Nature Nurture',
     description:
       'A visually appealing website developed with HTML, CSS, Bootstrap, and Django. It provides interactive content on environmental conservation and sustainable practices, engaging users with resources and tips on protecting nature.',
     stack: ['Django','HTML','CSS','Bootstrap', 'Google Map API'],
-    sourceCode: 'https://github.com/Morganbb104/Event_Planner_project2',
-    livePreview: 'https://obscure-chamber-98928.herokuapp.com/',
+    sourceCode: 'https://github.com/Ambuj2311/NatureNurture',
   },
   {
     name: 'ToDo List',
     description:
       'An interactive task management application created with ReactJS. It enables users to dynamically organize and track their daily tasks with an engaging and user-friendly interface.',
-    stack: ['HTML','CSS','JavaScript', 'React'],
-    sourceCode: 'https://github.com/stone-com/Resource-Planner',
-    livePreview: '#',
+    stack: ['HTML','CSS','JavaScript', 'ReactJS'],
+    sourceCode: 'https://github.com/Ambuj2311/ToDoListManager',
+    livePreview: 'https://atodolistmanager.netlify.app/',
   },
   {
     name: 'AS-folio',
     description:
       'A personal portfolio website designed with ReactJS. It showcases my skills, projects, and achievements in a dynamic and interactive manner, offering an engaging experience for visitors to explore your work.',
-    stack: ['HTML','CSS','JavaScript', 'React'],
+    stack: ['HTML','CSS','JavaScript', 'ReactJS'],
     sourceCode: 'https://github.com/stone-com/Resource-Planner',
+    livePreview: 'https://asfolio.netlify.app/',
     
+  },
+  {
+    name:'Car Corner',
+    description:'Car Corner is a dynamic web application built on ReactJS, offering a responsive and user-friendly interface. The platform ensures a seamless browsing experience across all devices, making it easy for users to explore top car brands.',
+    stack: ['HTML','CSS','JavaScript','React-Bootstrap', 'ReactJS'],
+    sourceCode:'https://github.com/Ambuj2311/carcorner',
+    livePreview:'https://car-corner.netlify.app/',
+
   },
   {
     name: 'Face Recognition and Attendance System',
     description:
       'An advanced system utilizing OpenCV for dynamic face recognition to automate attendance tracking. It provides an interactive and efficient way to identify individuals and record their presence with precision.',
     stack: ['OpenCV', 'Machine Learning'],
-    sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
-    livePreview: 'https://cheng32-musicstore-catalog.herokuapp.com/track',
+    sourceCode: 'https://github.com/Ambuj2311',
   },
 ]
 
