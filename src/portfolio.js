@@ -51,7 +51,7 @@ const projects = [
     description:
       'A personal portfolio website designed with ReactJS. It showcases my skills, projects, and achievements in a dynamic and interactive manner, offering an engaging experience for visitors to explore your work.',
     stack: ['HTML','CSS','JavaScript', 'ReactJS'],
-    sourceCode: 'https://github.com/stone-com/Resource-Planner',
+    sourceCode: 'https://github.com/Ambuj2311/AS-folio',
     livePreview: 'https://asfolio.netlify.app/',
     
   },
@@ -87,7 +87,7 @@ const skills = [
   'MongoDB',
   'React',
   'Git',
-  'Git-Hub'
+  'Git-Hub',
 
 ]
 
